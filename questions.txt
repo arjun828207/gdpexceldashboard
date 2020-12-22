@@ -1,0 +1,5 @@
+1.Gpd growth of country trendline.
+2.Has the world recovered from 2008-2009 recession.
+3.year which has high and low gdp generation.
+4.total gdp per categorie.
+5.total contribution towards whole gdp of the world groupwise.

@@ -1,0 +1,12 @@
+powerpivot vs pivot table
+vlookup hlookup
+cell referencing 
+data cleaning steps
+slicer
+ETL steps
+graph types
+how to protect excel sheet
+3 financial function
+how to remove duplicates
+what is conditional formatiing
+HOW TO SET LOCK
